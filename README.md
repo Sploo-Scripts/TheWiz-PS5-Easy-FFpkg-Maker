@@ -6,7 +6,7 @@ App para crear imágenes .ffpkg de juegos dumpeados en formato carpeta. Te evita
 
 Nota: No es un PKG instalable con Package Installer. Esta es una utilidad ligera diseñada para automatizar la creación de imágenes .ffpkg (UFS2) para PlayStation 5.
 
-![Alt-payload](https://i.imgur.com/DQzWO6Y.png)
+![Alt-payload](https://i.imgur.com/xbb1141.jpeg)
 
 -----
 
